@@ -1,4 +1,4 @@
-﻿#‎EXTM3U‬
+#EXTM3U‬
 #EXTINF:-1,tv_F_Plus
 http://87.246.0.155:5286/tv_F_Plus
 #EXTINF:-1,tv_Sport_Plus_HD
@@ -396,4 +396,3 @@ http://87.246.0.155:5286/tv_Nat_Geo_HD
 http://87.246.0.155:5286/tv_SUPER_RTL
 #EXTINF:-1,tv_RTLNITRO
 http://87.246.0.155:5286/tv_RTLNITRO
- 
