@@ -9,7 +9,7 @@ http://87.246.0.155:5286/tv_Eurosport
 http://87.246.0.155:5286/tv_Eurosport_2
 #EXTINF:-1,tv_Diema_Sport
 http://87.246.0.155:5286/tv_Diema_Sport
-#EXTINF:-1,tv_Diema_Sport_2_HD----
+#EXTINF:-1,tv_Diema_Sport_2_HD
 http://87.246.0.155:5286/tv_Diema_Sport_2_HD
 #EXTINF:-1,tv_Diema_Sport_HD
 http://87.246.0.155:5286/tv_Diema_Sport_HD
@@ -145,7 +145,6 @@ http://87.246.0.155:5286/tv_auto_motor_und_sport_channel
 #EXTINF:-1,tv_Cartoon_Network
 http://87.246.0.155:5286/tv_Cartoon_Network
 #EXTINF:-1,tv_Disney_channel
-http-caching=1200
 http://87.246.0.155:5286/tv_Disney_channel
 #EXTINF:-1,tv_Disney_Junior
 http://87.246.0.155:5286/tv_Disney_Junior
@@ -177,8 +176,6 @@ http://87.246.0.155:5286/tv_Cherno_More
 http://87.246.0.155:5286/tv_Kanal_3
 #EXTINF:-1,tv_POTV
 http://87.246.0.155:5286/tv_POTV
-#EXTINF:-1,tv_:http-caching=1200
-http://87.246.0.155:5286/tv_%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%BE%D0%BC
 #EXTINF:-1,tv_Destination_BG
 http://87.246.0.155:5286/tv_Destination_BG
 #EXTINF:-1,tv_Bulgaria_On_Air
@@ -268,12 +265,12 @@ http://87.246.0.155:5286/tv_American_Cars_Channel
 #EXTINF:-1,tv_auto_motor_und_sport_channel
 http://87.246.0.155:5286/tv_auto_motor_und_sport_channel
 #EXTINF:-1,tv_PRIVATE_TV_-_
-http://87.246.0.155:5286/tv_PRIVATE_TV_-_
-#EXTINF:-1,tv_XXL_-_
-http://87.246.0.155:5286/tv_XXL_-_
-#EXTINF:-1,tv_Dorcel_TV_-_
-http://87.246.0.155:5286/tv_Dorcel_TV_-_
-#EXTINF:-1,tv_Dorcel_HD
+http://87.246.0.155:5286/tv_PRIVATE_TV
+#EXTINF:-1,tv_XXL
+http://87.246.0.155:5286/tv_XXL
+#EXTINF:-1,tv_Dorcel_TV
+http://87.246.0.155:5286/tv_Dorcel_TV
+#EXTINF:-1,tv_Dorcel
 http://87.246.0.155:5286/tv_Dorcel_HD
 #EXTINF:-1,tv_Dusk!
 http://87.246.0.155:5286/tv_Dusk!
